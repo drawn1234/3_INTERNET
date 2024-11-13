@@ -1,0 +1,5 @@
+﻿  UDP_Client.cpp
+E:\编程代码\编程代码\vs三阶段网络\网络协议\UDP_Client\UDP_Client\UDP_Client.cpp(42,35): warning C4305: “参数”: 从“int”到“u_short”截断
+E:\编程代码\编程代码\vs三阶段网络\网络协议\UDP_Client\UDP_Client\UDP_Client.cpp(42,30): warning C4309: “参数”: 截断常量值
+E:\编程代码\编程代码\vs三阶段网络\网络协议\UDP_Client\UDP_Client\UDP_Client.cpp(40,36): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+LINK : fatal error LNK1104: 无法打开文件“E:\编程代码\编程代码\vs三阶段网络\网络协议\UDP_Client\x64\Debug\UDP_Client.exe”

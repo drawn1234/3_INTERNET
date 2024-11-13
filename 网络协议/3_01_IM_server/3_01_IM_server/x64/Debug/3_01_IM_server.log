@@ -1,0 +1,48 @@
+﻿  CKernel.cpp
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\net\def.h(84,3): error C3861: “memset”: 找不到标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\net\def.h(85,3): error C3861: “memset”: 找不到标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\net\def.h(86,3): error C3861: “memset”: 找不到标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\net\def.h(107,3): error C3861: “memset”: 找不到标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\net\def.h(108,3): error C3861: “memset”: 找不到标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\net\def.h(126,3): error C3861: “memset”: 找不到标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\net\def.h(127,3): error C3861: “memset”: 找不到标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\net\def.h(128,3): error C3861: “memset”: 找不到标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\net\def.h(140,3): error C3861: “memset”: 找不到标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\net\def.h(141,3): error C3861: “memset”: 找不到标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\net\def.h(142,3): error C3861: “memset”: 找不到标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\net\def.h(143,3): error C3861: “memset”: 找不到标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\net\def.h(157,3): error C3861: “memset”: 找不到标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\net\def.h(158,3): error C3861: “memset”: 找不到标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\net\def.h(159,3): error C3861: “memset”: 找不到标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\net\def.h(177,3): error C3861: “memset”: 找不到标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\kernel\CKernel.h(32,10): error C3646: “m_protocol”: 未知重写说明符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\kernel\CKernel.h(32,20): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\kernel\CKernel.h(32,41): error C2238: 意外的标记位于“;”之前
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\kernel\CKernel.cpp(15,9): error C2065: “m_protocol”: 未声明的标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\kernel\CKernel.cpp(15,31): error C2065: “m_protocol”: 未声明的标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\kernel\CKernel.cpp(17,2): error C2065: “m_protocol”: 未声明的标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\kernel\CKernel.cpp(18,2): error C2065: “m_protocol”: 未声明的标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\kernel\CKernel.cpp(61,3): error C2065: “PFUN”: 未声明的标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\kernel\CKernel.cpp(61,8): error C2146: 语法错误: 缺少“;”(在标识符“pf”的前面)
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\kernel\CKernel.cpp(61,8): error C2065: “pf”: 未声明的标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\kernel\CKernel.cpp(61,13): error C2065: “m_protocol”: 未声明的标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\kernel\CKernel.cpp(62,7): error C2065: “pf”: 未声明的标识符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\kernel\CKernel.cpp(64,12): error C2065: “pf”: 未声明的标识符
+  TcpClientMediator.cpp
+  TcpServerMediator.cpp
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\kernel\CKernel.h(32,10): error C3646: “m_protocol”: 未知重写说明符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\kernel\CKernel.h(32,20): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\kernel\CKernel.h(32,41): error C2238: 意外的标记位于“;”之前
+  UdpMediator.cpp
+  TcpClient.cpp
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\net\TcpClient.cpp(40,30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\net\TcpClient.cpp(89,48): warning C4244: “参数”: 从“SOCKET”转换到“unsigned long”，可能丢失数据
+  TcpServer.cpp
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\net\TcpServer.cpp(34,28): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\net\TcpServer.cpp(152,47): warning C4244: “参数”: 从“SOCKET”转换到“unsigned long”，可能丢失数据
+  Udp.cpp
+  源.cpp
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\kernel\CKernel.h(32,10): error C3646: “m_protocol”: 未知重写说明符
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\kernel\CKernel.h(32,20): error C2143: 语法错误: 缺少“,”(在“[”的前面)
+E:\编程代码\编程代码\vs三阶段网络\网络协议\3_01_IM_server\kernel\CKernel.h(32,41): error C2238: 意外的标记位于“;”之前
+  正在生成代码...

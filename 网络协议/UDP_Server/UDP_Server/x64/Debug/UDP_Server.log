@@ -1,0 +1,5 @@
+﻿  UDP_sever.cpp
+E:\编程代码\编程代码\vs三阶段网络\网络协议\UDP_Server\UDP_Server\UDP_sever.cpp(108,21): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\编程代码\编程代码\vs三阶段网络\网络协议\UDP_Server\UDP_Server\UDP_sever.cpp(75,6): warning C4101: “bufLen”: 未引用的局部变量
+E:\编程代码\编程代码\vs三阶段网络\网络协议\UDP_Server\UDP_Server\UDP_sever.cpp(86,6): warning C4101: “bufLenSend”: 未引用的局部变量
+  UDP_Server.vcxproj -> E:\编程代码\编程代码\vs三阶段网络\网络协议\UDP_Server\x64\Debug\UDP_Server.exe

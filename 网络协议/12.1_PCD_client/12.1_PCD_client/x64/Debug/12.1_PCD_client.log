@@ -1,0 +1,6 @@
+﻿D:\vs\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(12.1_PCD_client.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  TCP.Client.cpp
+E:\编程代码\编程代码\vs三阶段网络\网络协议\12.1_PCD_client\12.1_PCD_client\TCP.Client.cpp(46,30): warning C4305: “参数”: 从“int”到“u_short”截断
+E:\编程代码\编程代码\vs三阶段网络\网络协议\12.1_PCD_client\12.1_PCD_client\TCP.Client.cpp(46,25): warning C4309: “参数”: 截断常量值
+E:\编程代码\编程代码\vs三阶段网络\网络协议\12.1_PCD_client\12.1_PCD_client\TCP.Client.cpp(44,31): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  12.1_PCD_client.vcxproj -> E:\编程代码\编程代码\vs三阶段网络\网络协议\12.1_PCD_client\x64\Debug\12.1_TCP_client.exe

@@ -1,0 +1,4 @@
+﻿  UDP_Client.cpp
+E:\编程代码\编程代码\vs三阶段网络\网络协议\UDP_Client\UDP_Client\UDP_Client.cpp(41,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\编程代码\编程代码\vs三阶段网络\网络协议\UDP_Client\UDP_Client\UDP_Client.cpp(48,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  UDP_Client.vcxproj -> E:\编程代码\编程代码\vs三阶段网络\网络协议\UDP_Client\Debug\UDP_Client.exe

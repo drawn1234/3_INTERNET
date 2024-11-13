@@ -1,0 +1,6 @@
+﻿  01.cpp
+E:\编程代码\编程代码\vs三阶段网络\网络协议\11.23_UDPserver\11.23_UDPserver\01.cpp(51,31): warning C4305: “参数”: 从“int”到“u_short”截断
+E:\编程代码\编程代码\vs三阶段网络\网络协议\11.23_UDPserver\11.23_UDPserver\01.cpp(51,26): warning C4309: “参数”: 截断常量值
+E:\编程代码\编程代码\vs三阶段网络\网络协议\11.23_UDPserver\11.23_UDPserver\01.cpp(67,7): warning C4091: “”: 没有声明变量时忽略“int”的左侧
+E:\编程代码\编程代码\vs三阶段网络\网络协议\11.23_UDPserver\11.23_UDPserver\01.cpp(120,22): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  11.23_UDPserver.vcxproj -> E:\编程代码\编程代码\vs三阶段网络\网络协议\11.23_UDPserver\x64\Debug\11.23_UDPserver.exe
